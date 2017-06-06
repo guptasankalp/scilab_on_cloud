@@ -1,18 +1,18 @@
-DB_NAME_DEFAULT = 'scilabdb'                
+DB_NAME_DEFAULT = ''                
                                                       
-DB_USER_DEFAULT = 'root'
+DB_USER_DEFAULT = ''
                                                                      
-DB_PASS_DEFAULT = 'master'   
+DB_PASS_DEFAULT = ''   
                                                               
 DB_HOST_DEFAULT = ''                                                                         
 DB_PORT_DEFAULT = ''                                                                         
 
 
-DB_NAME_SCILAB = 'scilabdb'
+DB_NAME_SCILAB = ''
 
-DB_USER_SCILAB = 'root'
+DB_USER_SCILAB = ''
                                                                       
-DB_PASS_SCILAB = 'master' 
+DB_PASS_SCILAB = '' 
                                                                  
 DB_HOST_SCILAB = ''                                                                          
 DB_PORT_SCILAB = ''                                                                          
